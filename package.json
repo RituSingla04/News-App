@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "17.0.2",
-    "react-native": "0.67.2"
+    "react-native": "0.67.2",
+    "react-native-tab-view": "^3.1.1",
+    "react-native-viewpager": "^0.2.13"
   },
   "devDependencies": {
     "@babel/core": "^7.17.2",
